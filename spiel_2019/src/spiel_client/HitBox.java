@@ -8,7 +8,8 @@ public class HitBox {
 	int x, y;
 	int w, h;
 	int checkDown;
-//Hallo
+
+	
 	boolean hits(var s, var h) {
 		Rectangle player = new Rectangle(s.x, s.y, s.playerwidth, s.playerhight);
 		Rectangle object = new Rectangle(h.player2x, h.player2y, h.playerwidth, h.playerhight);
