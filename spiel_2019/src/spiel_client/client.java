@@ -37,6 +37,8 @@ public class client extends Thread{
 					e.printStackTrace();
 				}
 			
+				
+				//Mauri ist ein Hurenshon
 			
 			}
 			//client.close();
